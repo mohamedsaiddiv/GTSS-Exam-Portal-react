@@ -1,0 +1,63 @@
+export const initialResults = [
+  {
+    id: 1,
+    studentId: "ST001",
+    name: "Amina Hassan",
+    className: "Grade 10",
+    subject: "Mathematics",
+    mark: 92,
+  },
+  {
+    id: 2,
+    studentId: "ST002",
+    name: "Abdi Noor",
+    className: "Grade 10",
+    subject: "English",
+    mark: 84,
+  },
+  {
+    id: 3,
+    studentId: "ST003",
+    name: "Hodan Ali",
+    className: "Grade 9",
+    subject: "Computer Science",
+    mark: 96,
+  },
+  {
+    id: 4,
+    studentId: "ST004",
+    name: "Mohamed Omar",
+    className: "Grade 11",
+    subject: "Physics",
+    mark: 76,
+  },
+  {
+    id: 5,
+    studentId: "ST005",
+    name: "Fatima Said",
+    className: "Grade 9",
+    subject: "Biology",
+    mark: 88,
+  },
+  {
+    id: 6,
+    studentId: "ST006",
+    name: "Yusuf Ahmed",
+    className: "Grade 11",
+    subject: "Mathematics",
+    mark: 69,
+  },
+];
+export const students = [
+  {
+    id: "ST001",
+    name: "Amina Hassan",
+    className: "Grade 10",
+    gender: "Female",
+  },
+  { id: "ST002", name: "Abdi Noor", className: "Grade 10", gender: "Male" },
+  { id: "ST003", name: "Hodan Ali", className: "Grade 9", gender: "Female" },
+  { id: "ST004", name: "Mohamed Omar", className: "Grade 11", gender: "Male" },
+  { id: "ST005", name: "Fatima Said", className: "Grade 9", gender: "Female" },
+  { id: "ST006", name: "Yusuf Ahmed", className: "Grade 11", gender: "Male" },
+];
